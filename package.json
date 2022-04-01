@@ -1,0 +1,13 @@
+{
+  "name": "smart-kitchen-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "NA",
+  "private": false,
+  "scripts": {
+"json:server": "json-server --watch db.json"
+},
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
