@@ -4,9 +4,9 @@
     { "id": "2", "email": "doe@example.com", "passwordHash": "nl67kn;fknfk6786", "role":"KITCHEN_COORDINATOR" }
   ],
   "orders": [
-    { "id": "1456", "timestamp":"1648713556", "order": "Kottu full", "status": "new", "price":10200 },
-    { "id": "2566", "timestamp":"1648713587", "order": "String hoppers", "status": "confirmed", "price":2505 },
-    { "id": "3456", "timestamp":"1648713594", "order": "Kottu full", "status": "ready", "price":4325 },
-    { "id": "5786", "timestamp":"1648713601", "order": "Kottu full", "status": "delivered", "price":7562 }
+    { "id": "1456", "timestamp":"1648713556", "order": "Kottu full", "status": "NEW", "price":10200 },
+    { "id": "2566", "timestamp":"1648713587", "order": "String hoppers", "status": "CONFIRMED", "price":2505 },
+    { "id": "3456", "timestamp":"1648713594", "order": "Kottu full", "status": "READY", "price":4325 },
+    { "id": "5786", "timestamp":"1648713601", "order": "Kottu full", "status": "DELIVERED", "price":7562 }
   ]
 }
