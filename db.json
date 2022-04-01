@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": "1", "email": "john@example.com", "passwordHash": "asf145ksapgkbak", "role":"Waiter" },
-    { "id": "2", "email": "doe@example.com", "passwordHash": "nl67kn;fknfk6786", "role":"Kitchen Coordinator" }
+    { "id": "1", "email": "john@example.com", "passwordHash": "asf145ksapgkbak", "role":"WAITER" },
+    { "id": "2", "email": "doe@example.com", "passwordHash": "nl67kn;fknfk6786", "role":"KITCHEN_COORDINATOR" }
   ],
   "orders": [
     { "id": "1456", "timestamp":"1648713556", "order": "Kottu full", "status": "new", "price":10200 },
